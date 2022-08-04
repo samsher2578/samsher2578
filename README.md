@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samsher2578
-- 👀 I’m interested in cybersecurity & programming.
-- 🌱 I’m currently learning python3.
-- 💞️ I’m looking to collaborate on projects.
+- 👀 I’m interested in cybersecurity & programming
+- 🌱 I’m currently learning networking
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me samsherkhan2578@gmail.com
 
 <!---
